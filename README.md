@@ -75,8 +75,3 @@ print(result.best_params, result.best_fitness)
 ```
 
 The example uses a small illustrative objective. Replace it with your own model-training and validation loss for a real HPO task. For the continuous optimizer, import `optimize` from `ttao.continuous`.
-
-## Continuous benchmark results
-
-`Results/` contains **results from the continuous TTAO experiments only**, covering Sphere, Rosenbrock, Rastrigin, Ackley, and Schwefel. It includes CSV summaries, compressed evaluation histories (`.npz`), and convergence and box-plot figures (`.png`).
-
