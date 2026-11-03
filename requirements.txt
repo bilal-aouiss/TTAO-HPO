@@ -1,0 +1,6 @@
+# Core framework
+numpy
+pandas
+scipy
+matplotlib>=3.9
+tqdm
