@@ -21,7 +21,6 @@ TTAO-HPO/
 │   ├── search_space.py   # Search-space definition and latent encoding/decoding
 │   ├── optimizer.py      # TTAO-HPO optimization loop
 │   └── evaluation.py     # Objective evaluation, cache, and budgets
-├── Results/              # Continuous benchmark results only
 ├── README.md
 ├── requirements.txt
 └── .gitignore
